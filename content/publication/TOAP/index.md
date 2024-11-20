@@ -1,5 +1,5 @@
 ---
-title: "Prompt Out-of-Distribution: Self-Supervised Graph Test-Time Adaptation"
+title: "Map to Optimal: Adapting Graph Out-of-Distribution in Test Time"
 authors:
 - Haoxiang Zhang*
 - admin*
@@ -24,8 +24,8 @@ publishDate: "2024-05-15T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*In a submission to 2024 ICLR*"
-publication_short: "*In a submission to 2024 ICLR*"
+publication: "*In a submission to ICLR*"
+publication_short: "*In a submission to ICLR*"
 
 # abstract: "Script event stream prediction is a task that predicts events based on a given context or script. Most
 # existing methods predict one subsequent event, limiting the ability to make a longer inference about the future.
