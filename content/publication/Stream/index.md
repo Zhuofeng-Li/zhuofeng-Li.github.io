@@ -1,12 +1,12 @@
 ---
 title: "Envisioning a Future Beyond Tomorrow with Script Event Stream Prediction"
 authors:
-- Fang, Zhiyi
+- Zhiyi Fang
 - admin
-- Zhang, Qingyong
-- Xu, Changhua
-- Tian, Pinzhuo
-- Xie, Shaorong
+- Qingyong Zhang
+- Changhua Xu
+- Pinzhuo Tian
+- Shaorong Xie
 
 # author_notes:
 # - "Equal contribution"
