@@ -116,6 +116,7 @@ highlight_name: true
 ---
 
 Hi, my name is Zhuofeng Li, a fourth year undergraduate student from Shanghai University. During 2024 Summer, I fortunately interned at Emory University supervised by Prof. [Liang Zhao](http://cs.emory.edu/~lzhao41/). I was also fortunate to collabrate with Prof. [Jian Pei](https://scholar.google.com/citations?user=zIMEVKsAAAAJ&hl=en).
+
 My primary research focus lies in the intersection of Large Language Models (LLMs) and Data Mining for solving real-world problems including information retrieval and knowledge discovery. In the future, I would like to expand my research to Multimodal AI, including image, audio, and speech modalities. I'm also open to other topics. Please contact me if you'd like to chat!
 
 {style="text-align: justify;"}
